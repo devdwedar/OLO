@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OLO_Console", "OLO_Console\OLO_Console.csproj", "{CED87728-F721-4284-98D8-0841BD85FA23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting", "UnitTest\UnitTesting.csproj", "{75011A92-5416-4306-BEF4-F4E6ED9AE755}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CED87728-F721-4284-98D8-0841BD85FA23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CED87728-F721-4284-98D8-0841BD85FA23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CED87728-F721-4284-98D8-0841BD85FA23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CED87728-F721-4284-98D8-0841BD85FA23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75011A92-5416-4306-BEF4-F4E6ED9AE755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75011A92-5416-4306-BEF4-F4E6ED9AE755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75011A92-5416-4306-BEF4-F4E6ED9AE755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75011A92-5416-4306-BEF4-F4E6ED9AE755}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCFA1BD6-3168-4F8C-A1D5-FF28736E6AD7}
+	EndGlobalSection
+EndGlobal
